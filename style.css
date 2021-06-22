@@ -1,0 +1,72 @@
+.navbar-brand{
+    color: rgb(115, 185, 146);
+}
+
+.seksyen1{
+    background-color: #599097;
+    padding: 7% 15% 7%;
+}
+
+.banner{
+    text-align: center;
+}
+
+.heading-syqn{
+    color: rgb(255, 255, 255);
+}
+
+.tulisanPutih{
+    color: hsl(49, 91%, 56%);
+}
+
+.container{
+    background-color: #e2c543;
+    padding: 2% 3% 2%;
+}
+
+/*seksyen 2 */
+
+.seksyen2{
+    background-color: #ffffff;
+    padding: 7% 15% 7%;
+    text-align: center;
+}
+
+.feature-box{
+    padding: 4.5%;
+}
+
+.icon{
+    color: #599097;
+    margin-bottom: 4rem;
+}
+
+.icon{
+    color: #599097;
+    margin-bottom: 1rem;
+}
+.feature-box{
+    padding: 4.5%
+}
+
+
+.seksyen4{
+    background-color: #ffffff;
+    padding: 5%;
+    text-align: left;
+}
+
+.section5{
+     background-color: #599097;
+     padding: 5% 20% 5%;
+     text-align: center;
+     color:#ffffff;
+              
+}
+
+.footer{
+    background-color: #599097;
+    padding: 7% 30% 7%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
